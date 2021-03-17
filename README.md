@@ -1,1 +1,3 @@
-# skiff-org
+# Skiff
+
+Skiff assets.
